@@ -55,5 +55,5 @@ The analysis focuses on **data cleaning, exploratory data analysis (EDA), and da
 ## 🚀 How to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Retail-Sales-EDA.git
+   git clone https://github.com/ajaymac4/Retail-Sales-EDA.git
    cd Retail-Sales-EDA
